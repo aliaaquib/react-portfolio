@@ -2,7 +2,7 @@
 
 A simple portfolio template for developer/designers built with React. 
 
-### [live preview](https://imaaquibali.me)
+### [live preview](https://imaaquibali.vercel.app)
 
 ### Features
 
@@ -16,7 +16,7 @@ A simple portfolio template for developer/designers built with React.
 
 Get the code
 
-<pre>git clone https://github.com/imaaquibali/react-portfolio.git</pre>
+<pre>git clone https://github.com/aliaaquib/react-portfolio.git</pre>
  
 Install required dependencies
 
