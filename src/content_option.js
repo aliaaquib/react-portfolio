@@ -14,7 +14,7 @@ const introdata = {
   },
   description:
     "Hello, I'm Aaquib Ali, a Developer from India. With a deep love for coding and a flair for crafting compelling content and designs, I strive to create impactful digital experiences and empower aspiring developers through community & mentorship.",
-  your_img_url: "https://images.unsplash.com/photo-1514790193030-c89d266d5a9d",
+  your_img_url: "/Images/home.jpeg",
 };
 
 const dataabout = {
