@@ -87,44 +87,44 @@ const dataportfolio = [
   {
     img: "/Images/theversiton.png",
     description:
-      "The wisdom of life consists in the elimination of non-essentials.",
+      "A Place for the Decentralized Innovation!",
     link: "https://theversiton.xyz/",
   },
   {
     img: "/Images/springboyshostel.png",
     description:
-      "An Open source sorta Spotify application where users can-•Fork other's Playlist•Create Issues on their albums•Send PRs for collaboration.",
+      "A Hostel where you we live like a family!",
     link: "https://springboyshostel.vercel.app",
   },
   {
     img: "/Images/portfolio.png",
     description:
-      "The wisdom of life consists in the elimination of non-essentials.",
+      "This is an Personal Portfolio website made by HTML, CSS, and JS..",
     link: "https://imaaquibali.vercel.app/",
   },
   {
     img: "/Images/reactportfolio.png",
     description:
-      "The wisdom of life consists in the elimination of non-essentials.",
+      "A Personal Portfolio made using react.",
     link: "https://aaquibaliportfolio.vercel.app",
   },
   {
     img: "/Images/localboysshop.png",
     description:
-      "The wisdom of life consists in the elimination of non-essentials.",
+      "An e-commerce website for you're all needs.",
     link: "https://localboysshop.vercel.app/",
   },
 
   {
     img: "/Images/githubtify.png",
     description:
-      "The wisdom of life consists in the elimination of non-essentials.",
+      "An Open source sorta Spotify application where users can Fork other's Playlist, Create Issues, Send PRs for collaboration.",
     link: "http://github.com/aliaaquib/githubtify/",
   },
   {
     img: "/Images/buttonanimation.png",
     description:
-      "The wisdom of life consists in the elimination of non-essentials.",
+      "Collection of Animated Buttons which you can use in your webpages or sites to make your buttons more attractive. .",
     link: "https://buttonanimation.vercel.app/",
   },
 ];
@@ -133,7 +133,7 @@ const contactConfig = {
   YOUR_EMAIL: "imaaquibali@gmail.com",
   YOUR_FONE: "+91 7419261380",
   description:
-    "Hello, I'm Aaquib Ali, a Developer from India. With a deep love for coding and a flair for crafting compelling content and designs, I strive to create impactful digital experiences and empower aspiring developers through community & mentorship. ",
+    "Let's connect. Whether you have a question, feedback, or just want to say hello, this is the place to reach us. ",
   // creat an emailjs.com account
   // check out this tutorial https://www.emailjs.com/docs/examples/reactjs/
   YOUR_SERVICE_ID: "service_id",
