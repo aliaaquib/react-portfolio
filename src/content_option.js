@@ -131,14 +131,12 @@ const dataportfolio = [
 
 const contactConfig = {
   YOUR_EMAIL: "imaaquibali@gmail.com",
-  YOUR_FONE: "+91 7419261380",
+  YOUR_FONE: "+91 9022117426",
   description:
     "Let's connect. Whether you have a question, feedback, or just want to say hello, this is the place to reach us. ",
-  // creat an emailjs.com account
-  // check out this tutorial https://www.emailjs.com/docs/examples/reactjs/
-  YOUR_SERVICE_ID: "service_id",
-  YOUR_TEMPLATE_ID: "template_id",
-  YOUR_USER_ID: "user_id",
+  YOUR_SERVICE_ID: "service_jz1u99q",
+  YOUR_TEMPLATE_ID: "template_9aukl9j",
+  YOUR_USER_ID: "zPsZiu_koiDoAV3mC",
 };
 
 const socialprofils = {
