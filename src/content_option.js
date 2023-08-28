@@ -22,24 +22,6 @@ const dataabout = {
   aboutme:
     "Hello, I'm Aaquib Ali, a Developer from India. With a deep love for coding and a flair for crafting compelling content and designs, I strive to create impactful digital experiences and empower aspiring developers through community & mentorship.",
 };
-const worktimeline = [
-  {
-    jobtitle: "Designer of week",
-    where: "YAdfi",
-    date: "2020",
-  },
-  {
-    jobtitle: "Designer of week",
-    where: "Jamalya",
-    date: "2019",
-  },
-  {
-    jobtitle: "Designer of week",
-    where: "ALquds",
-    date: "2019",
-  },
-];
-
 const skills = [
   {
     name: "Javascript",
@@ -148,7 +130,6 @@ export {
   meta,
   dataabout,
   dataportfolio,
-  worktimeline,
   skills,
   services,
   introdata,
