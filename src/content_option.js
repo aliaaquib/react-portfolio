@@ -11,6 +11,8 @@ const introdata = {
     first: "I love coding",
     second: "I code cool websites",
     third: "I make designs",
+    fourth: "I do community stuffs",
+    fifth: "I do random things",
   },
   description:
     "Hello, I'm Aaquib Ali, a Developer from India. With a deep love for coding and a flair for crafting compelling content and designs, I strive to create impactful digital experiences and empower aspiring developers through community & mentorship.",
